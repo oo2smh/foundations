@@ -1,0 +1,12 @@
+.btn {
+    font: 28px, Helvetica, Times New Roman, sans-serif;
+}
+
+#btn-click-me {
+    background-color: black;
+    color: white;
+}
+
+#btn-no-click-me {
+    background-color: yellow;
+}
